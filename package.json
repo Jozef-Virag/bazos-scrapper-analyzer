@@ -1,0 +1,31 @@
+{
+  "name": "bazos-scrapper",
+  "version": "1.0.0",
+  "description": "Scrapper for bazos, simply as that",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UKF-JozefVirag/bazos-scrapper.git"
+  },
+  "type": "module",
+  "keywords": [
+    "scrapper",
+    "bazos"
+  ],
+  "author": "Jozef Virag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UKF-JozefVirag/bazos-scrapper/issues"
+  },
+  "homepage": "https://github.com/UKF-JozefVirag/bazos-scrapper#readme",
+  "dependencies": {
+    "commander": "^13.1.0",
+    "filenamify": "^6.0.0",
+    "fs-extra": "^11.3.0",
+    "puppeteer": "^24.1.1"
+  }
+}
