@@ -122,11 +122,9 @@ async function scrape(query, zip, { radius, from: priceMin, to: priceMax, window
         results.push(...pageResults.ads);
 
         if (pageResults.nextPageHref) {
-            console.log('next page found');
             await page.goto(pageResults.nextPageHref);
             hasNextPage = true;
         } else {
-            console.log('no more pages');
             hasNextPage = false;
         }
     } while (hasNextPage);
