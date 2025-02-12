@@ -4,7 +4,7 @@ Scrapper and analyzer for bazos.sk
 
 ## Description
 
-This project is a scrapper and analyzer for bazos.sk. It allows you to search for ads on bazos.sk based on specified criteria and save the results to JSON files. In the future, it will be extended with analytical functions.
+This project is a scrapper and analyzer for bazos.sk. It allows you to search for products on bazos.sk based on specified criteria and save the results to JSON files. In the future, it will be extended with analytical functions.
 
 ## Installation
 
