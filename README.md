@@ -66,5 +66,5 @@ This project is licensed under the **MIT License**.
 
 ---
 
-Made with ❤️ by **UKF-JozefVirag** 🚀
+Made with ❤️ by **Jozef-Virag** 🚀
 
